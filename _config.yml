@@ -1,0 +1,28 @@
+name: Haskell Auto
+favicon: null
+layout_spectrum: 0.9281894532032311
+typography_spectrum: 0.13043051934801042
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.671536659123376
+  lightness: 0.6144576841033995
+  saturation: 0.8296121780294925
+  rhythmicContrast: 0.9490441384259611
+purpose: []
