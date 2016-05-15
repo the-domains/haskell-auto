@@ -1,6 +1,6 @@
 name: Haskell Auto
 favicon: null
-layout_spectrum: 0.76354
+layout_spectrum: 0.90386
 typography_spectrum: 1
 title: Haskell Auto
 cta:
@@ -22,8 +22,8 @@ color:
     - '#211f20'
     - '#828282'
     - '#a6c7b4'
-  brandStrength: 0.6875
-  lightness: 0.6144576841033995
-  saturation: 0.8296121780294925
-  rhythmicContrast: 0.9490441384259611
+  brandStrength: 0.625
+  lightness: 0.75
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
