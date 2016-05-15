@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Haskell Auto]]></title>
+        <description><![CDATA[Haskell Auto]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 15 May 2016 21:47:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We believe that, above all, customers want to know that they can trust their car needs to a business that won't make unnecessary autorepairs and will give fair appraisals of how best to extend the life of their cars. </p>]]></description>
+            <link>undefinedwe-believe-that-above-all-customers-want-to-know-that-they/index.html</link>
+            <guid isPermaLink="false">2601dd8b-8ea7-46ca-9860-3d830f1c4fa8</guid>
+            <pubDate>Sun, 15 May 2016 21:47:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
