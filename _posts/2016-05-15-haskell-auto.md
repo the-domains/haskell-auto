@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Haskell Auto
-datePublished: '2016-05-15T22:02:26.464Z'
-dateModified: '2016-05-15T22:01:12.135Z'
+datePublished: '2016-05-15T22:05:34.977Z'
+dateModified: '2016-05-15T22:02:34.802Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-15-haskell-auto.md
