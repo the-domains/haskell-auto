@@ -5,18 +5,18 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Haskell Auto
-datePublished: '2016-05-15T22:01:11.296Z'
-dateModified: '2016-05-15T22:00:54.853Z'
+datePublished: '2016-05-15T22:02:26.464Z'
+dateModified: '2016-05-15T22:01:12.135Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-15-haskell-auto.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-05-15-haskell-auto.md
 url: haskell-auto/index.html
 _type: Article
 
