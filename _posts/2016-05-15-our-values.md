@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'We offer quality auto service at excellent prices. Most importantly, we have an'
-datePublished: '2016-05-15T21:35:23.281Z'
-dateModified: '2016-05-15T21:35:19.689Z'
+datePublished: '2016-05-15T21:42:38.434Z'
+dateModified: '2016-05-15T21:42:33.102Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-15-our-values.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-15-our-values.md
 url: our-values/index.html
 _type: Article
 
