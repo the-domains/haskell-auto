@@ -4,21 +4,21 @@
         <description><![CDATA[Haskell Auto]]></description>
         <link>https://thegrid.ai/haskell-auto/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 22:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 22:05:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/haskell-auto/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Haskell Auto</p>]]></description>
+            <link>https://thegrid.ai/haskell-auto/haskell-auto/index.html</link>
+            <guid isPermaLink="false">a6ce7c48-2e52-4f1e-b6be-e245df5797a9</guid>
+            <pubDate>Sun, 15 May 2016 22:05:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Our Approach]]></title>
             <description><![CDATA[<p>We believe that, above all, customers want to know that they can trust their car needs to a business that won't make unnecessary</p>]]></description>
             <link>https://thegrid.ai/haskell-auto/our-approach/index.html</link>
             <guid isPermaLink="false">d20311cd-a590-423b-a8f9-ffd9ea547db6</guid>
             <pubDate>Sun, 15 May 2016 22:03:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Haskell Auto</p>]]></description>
-            <link>https://thegrid.ai/haskell-auto/haskell-auto/index.html</link>
-            <guid isPermaLink="false">a6ce7c48-2e52-4f1e-b6be-e245df5797a9</guid>
-            <pubDate>Sun, 15 May 2016 22:02:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
